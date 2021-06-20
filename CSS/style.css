@@ -1,0 +1,18 @@
+/*Style Q0*/
+ul {
+    list-style-type: none;
+    /*background-color: aquamarine;*/
+  }
+
+button {
+    background-color: aquamarine;
+    text-transform:capitalize;
+    border-radius: 10px;
+    border-width: thick;
+    font-weight: bold;   
+}
+
+.classList{
+  background-color: violet;
+}
+  
